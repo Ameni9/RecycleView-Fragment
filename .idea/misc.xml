@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/StudioProjects/RestApi Copie/app/src/main/res/layout/activity_main.xml" value="0.10092592592592593" />
+        <entry key="..\:/StudioProjects/RestApi Copie/app/src/main/res/layout/activity_post.xml" value="0.253125" />
+        <entry key="..\:/StudioProjects/RestApi Copie/app/src/main/res/layout/activity_post2.xml" value="0.25416666666666665" />
+        <entry key="..\:/StudioProjects/RestApi Copie/app/src/main/res/layout/comment_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/StudioProjects/RestApi Copie/app/src/main/res/layout/create_post_dialog.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/RestApi Copie/app/src/main/res/layout/home_rv_item_view.xml" value="0.264" />
+        <entry key="..\:/StudioProjects/RestApi Copie/app/src/main/res/menu/home_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/StudioProjects/RestApiDemo-master/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/StudioProjects/RestApiDemo-master/app/src/main/res/layout/create_post_dialog.xml" value="0.2" />
+        <entry key="..\:/StudioProjects/RestApiDemo-master/app/src/main/res/layout/home_rv_item_view.xml" value="0.1814814814814815" />
+        <entry key="..\:/StudioProjects/SecondApp/app/src/main/res/layout/activity_main.xml" value="0.10948905109489052" />
+        <entry key="..\:/StudioProjects/SecondApp/app/src/main/res/layout/activity_post2.xml" value="0.25416666666666665" />
+        <entry key="..\:/StudioProjects/SecondApp/app/src/main/res/layout/comment_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/StudioProjects/SecondApp/app/src/main/res/layout/content_main.xml" value="0.15555555555555556" />
+        <entry key="..\:/StudioProjects/SecondApp/app/src/main/res/layout/fragment_blank.xml" value="0.1" />
+        <entry key="..\:/StudioProjects/SecondApp/app/src/main/res/layout/fragment_detail.xml" value="0.25" />
+        <entry key="..\:/StudioProjects/SecondApp/app/src/main/res/layout/fragment_post.xml" value="0.25416666666666665" />
+        <entry key="..\:/StudioProjects/SecondApp/app/src/main/res/layout/home_rv_item_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/StudioProjects/SecondApp/app/src/main/res/menu/home_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
